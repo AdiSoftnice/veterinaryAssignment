@@ -11,7 +11,7 @@
 * I have used devise for user authentication,  cancancan for user authorization, rails_admin for site admin. You shall encounter the following associations.
 
 Three models considered:
-1. User - has different roles admin,customer,doctor,receptonist
+1. User - has different roles admin,customer,doctor,receptionist
 2. Pet - Dog,cat, bird
 3. Appointment
 
